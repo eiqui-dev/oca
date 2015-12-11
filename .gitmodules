@@ -1,0 +1,33 @@
+[submodule "website"]
+	path = website
+	url = https://github.com/eiqui-dev/website.git
+[submodule "account-payment"]
+	path = account-payment
+	url = https://github.com/eiqui-dev/account-payment.git
+[submodule "partner-contact"]
+	path = partner-contact
+	url = https://github.com/eiqui-dev/partner-contact.git
+[submodule "stock-logistics-workflow"]
+	path = stock-logistics-workflow
+	url = https://github.com/eiqui-dev/stock-logistics-workflow.git
+[submodule "web"]
+	path = web
+	url = https://github.com/eiqui-dev/web.git
+[submodule "bank-statement-import"]
+	path = bank-statement-import
+	url = https://github.com/eiqui-dev/bank-statement-import.git
+[submodule "account-invoicing"]
+	path = account-invoicing
+	url = https://github.com/eiqui-dev/account-invoicing.git
+[submodule "account-financial-tools"]
+	path = account-financial-tools
+	url = https://github.com/eiqui-dev/account-financial-tools.git
+[submodule "l10n-spain"]
+	path = l10n-spain
+	url = https://github.com/eiqui-dev/l10n-spain.git
+[submodule "commission"]
+	path = commission
+	url = https://github.com/eiqui-dev/commission.git
+[submodule "bank-payment"]
+	path = bank-payment
+	url = https://github.com/eiqui-dev/bank-payment.git

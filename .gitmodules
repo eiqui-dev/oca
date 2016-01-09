@@ -36,10 +36,10 @@
 	url = https://github.com/eiqui-dev/server-tools.git
 [submodule "connector-interfaces"]
 	path = connector-interfaces
-	url = git@github.com:eiqui-dev/connector-interfaces.git
+	url = https://github.com/eiqui-dev/connector-interfaces.git
 [submodule "connector"]
 	path = connector
-	url = git@github.com:eiqui-dev/connector.git
+	url = https://github.com/eiqui-dev/connector.git
 [submodule "sale-workflow"]
 	path = sale-workflow
-	url = git@github.com:eiqui-dev/sale-workflow.git
+	url = https://github.com/eiqui-dev/sale-workflow.git

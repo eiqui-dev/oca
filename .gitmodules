@@ -43,3 +43,6 @@
 [submodule "sale-workflow"]
 	path = sale-workflow
 	url = https://github.com/eiqui-dev/sale-workflow.git
+[submodule "knowledge"]
+	path = knowledge
+	url = https://github.com/eiqui-dev/knowledge.git

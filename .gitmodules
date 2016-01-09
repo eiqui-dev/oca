@@ -46,3 +46,6 @@
 [submodule "knowledge"]
 	path = knowledge
 	url = https://github.com/eiqui-dev/knowledge.git
+[submodule "account-financial-reporting"]
+	path = account-financial-reporting
+	url = https://github.com/eiqui-dev/account-financial-reporting.git

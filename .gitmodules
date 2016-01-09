@@ -49,3 +49,6 @@
 [submodule "account-financial-reporting"]
 	path = account-financial-reporting
 	url = https://github.com/eiqui-dev/account-financial-reporting.git
+[submodule "reporting-engine"]
+	path = reporting-engine
+	url = https://github.com/eiqui-dev/reporting-engine.git

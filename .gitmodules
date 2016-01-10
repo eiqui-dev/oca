@@ -52,3 +52,6 @@
 [submodule "reporting-engine"]
 	path = reporting-engine
 	url = https://github.com/eiqui-dev/reporting-engine.git
+[submodule "stock-logistics-warehouse"]
+	path = stock-logistics-warehouse
+	url = https://github.com/eiqui-dev/stock-logistics-warehouse.git

@@ -55,3 +55,6 @@
 [submodule "stock-logistics-warehouse"]
 	path = stock-logistics-warehouse
 	url = https://github.com/eiqui-dev/stock-logistics-warehouse.git
+[submodule "pos"]
+	path = pos
+	url = https://github.com/eiqui-dev/pos.git

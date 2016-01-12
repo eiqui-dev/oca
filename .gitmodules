@@ -58,3 +58,6 @@
 [submodule "pos"]
 	path = pos
 	url = https://github.com/eiqui-dev/pos.git
+[submodule "account-invoice-reporting"]
+	path = account-invoice-reporting
+	url = https://github.com/eiqui-dev/account-invoice-reporting.git

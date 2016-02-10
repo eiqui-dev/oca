@@ -64,3 +64,6 @@
 [submodule "rma"]
 	path = rma
 	url = https://github.com/eiqui-dev/rma.git
+[submodule "crm"]
+	path = crm
+	url = https://github.com/eiqui-dev/crm.git
